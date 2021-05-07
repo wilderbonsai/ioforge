@@ -148,7 +148,7 @@ models:
         name: bio
         label: Bio
       - name: Action
-        type: string
+        type: url
   category:
     type: data
     label: Category
