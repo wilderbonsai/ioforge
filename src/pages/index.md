@@ -44,10 +44,10 @@ sections:
             style: secondary
       - title: Full-stack Development
         content: >
-          We build full-stack platforms, tools, and other digital solutions with
-          our expert developers with over 10 years of experience, using the
-          latest technologies and services such as ReactJS, Node, AWS, Docker,
-          Digital Ocean, Netlify, and many others.
+          With expertise in Software Enginerring, Cloud Infrastructure and Dev
+          Ops, we build and maintain full-stack platforms and tools, using
+          latest modern methods and technologies and services such as ReactJS,
+          Node, AWS, Docker, Digital Ocean, Netlify,
         align: left
         image: images/Intelligent-consulting-.png
         image_alt: Feature 2 placeholder image
