@@ -1,14 +1,10 @@
 import React from 'react';
 import _ from 'lodash';
-import Action from './Action';
 
 import {getData, withPrefix, markdownify} from '../utils';
 
 export default class TeamSection extends React.Component {
-
     render() {
-                let actions = _.get(this.props, 'action', null);
-                console.log(actions, 'actions')
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--team">
@@ -33,13 +29,11 @@ export default class TeamSection extends React.Component {
                             <header className="card__header">
                               <h3 className="h4 card__title">{person_data.first_name} {person_data.last_name}</h3>
                             </header>
-                            
+                            {person_data.link && (
                             <div className="card__copy">
-                              {_.map(actions, (action, action_idx) => (
-              <Action key={action_idx} {...this.props} action={action} />
-            ))}
+                              {markdownify(person_data.link)}
                             </div>
-                            
+                            )}
                             {person_data.bio && (
                             <div className="card__copy">
                               {markdownify(person_data.bio)}
