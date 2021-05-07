@@ -65,10 +65,7 @@ sections:
         image: images/Align-company-goals-.png
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
   - title: Some of our clients
     team:
       - src/data/team/person-kqktb9ime.json
