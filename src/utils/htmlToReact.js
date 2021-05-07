@@ -28,7 +28,7 @@ export default function htmlToReact(html) {
             
                 // use Link only if there are no custom attributes like style, class, and what's not that might break react
                 if (_.isEmpty(props)) {
-                    return <Link key={index} to={href} {...props}>{convertChildren(node.children, index)}</Link>;
+                    return <Link key={index} target="_blank" to={href} {...props}>{convertChildren(node.children, index)}</Link>;
                 }
             }
         }
