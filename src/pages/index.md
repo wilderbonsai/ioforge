@@ -30,10 +30,10 @@ sections:
     features:
       - title: Solution Architechture
         content: >
-          We help find the best solutions to your business problems by
+          We help find the best solutions for your business problems by
           researching, planning, and implementing the latest and most powerful
           technologies and methods that are right for your company’s specific
-          needs. 
+          needs.
         align: left
         image: images/Solution-architecture.png
         image_alt: Feature 1 placeholder image
