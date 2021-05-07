@@ -69,7 +69,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Our Latest Projects
         content: |
           test
         align: left
