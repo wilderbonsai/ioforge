@@ -1,11 +1,6 @@
 id: miles-tone
 photo: images/miles-tone.jpg
 photo_alt: Miles Tone
-bio: >+
-  We provide modern methods for those new to development to gain the skills and
-  confidence to embark on their developer journey. Traditional developer schools
-  are extremely expensive, and teach you outdated skills technology. We focus on
-  building real world solutions, in a modern environment to build and launch
-  tools effectively. 
-
+bio: |2
+   Traditional developer bootcamps are extremely expensive (around 10,000 euro for 12 weeks), and teach you outdated skills technology. We focus on teaching how to build real world solutions, using the latest tooling. We enable students to learn in their own time, for a fraction of the price of traditional bootcamps.
 first_name: Beginner Developer Courses
