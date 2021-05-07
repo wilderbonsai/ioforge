@@ -29,10 +29,10 @@ sections:
     title: What we do
     features:
       - title: Solution Architechture
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Solution architecture and development is a comprehensive process that
+          finds the best solutions to your business problems by implementing the
+          right technology and methods for your company’s specific needs
         align: left
         image: images/Solution-architecture.png
         image_alt: Feature 1 placeholder image
