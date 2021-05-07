@@ -86,6 +86,9 @@ sections:
         image_position: left
         actions: []
         type: feature
+  - title: lorem-ipsum
+    team: []
+    type: team_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
@@ -97,9 +100,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    team: []
-    type: team_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
