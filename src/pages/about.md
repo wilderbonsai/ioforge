@@ -18,7 +18,9 @@ sections:
       - src/data/team/eleanor-carr.yaml
   - type: cta_section
     title: Become a master of the digital universe
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Interested in our courses, or mentorship program to take you or your team
+      to the next level?
     actions:
       - label: Contact Us
         url: /contact
