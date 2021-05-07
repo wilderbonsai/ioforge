@@ -13,9 +13,9 @@ sections:
         content: >
           With so many technologies and services out there, it can be difficult
           to have confidence in selecting the right one. We have experience with
-          hundreds of different service and solutions, and use this to help
-          curate a digital solution architecture that best fits your business
-          and project. 
+          hundreds of different digital services and solutions, and use this
+          experience to help plan and implement a digital solution architecture
+          that best fits your business and project.
         align: left
         image: images/futuristic-sage.png
         image_alt: Feature 1 placeholder image
