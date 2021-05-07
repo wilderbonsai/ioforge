@@ -7,7 +7,7 @@
     "type": "person",
     "photo": "images/squareball-forge.png",
     "url": {
-        "label": "lorem-ipsum",
+        "label": "https://squareball.co",
         "style": "link",
         "new_window": false,
         "no_follow": false,
