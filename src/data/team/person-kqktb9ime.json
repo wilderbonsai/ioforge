@@ -8,7 +8,7 @@
     "photo": "images/squareball-forge.png",
     "url": {
         "label": "https://squareball.co",
-        "style": "link",
+        "style": "primary",
         "new_window": true,
         "no_follow": false,
         "type": "action",
