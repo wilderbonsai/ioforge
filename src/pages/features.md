@@ -22,10 +22,8 @@ sections:
         image_position: right
         actions: []
       - title: Modern methodologies to integrate with any team.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          We are 
         align: left
         image: images/planning.png
         image_alt: Feature 2 placeholder image
