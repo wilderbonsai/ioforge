@@ -21,8 +21,6 @@ seo:
       value: This is the privacy and terms page
 template: page
 ---
-
-
 At io-forge.com, accessible from io-forge.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by io-forge.com and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
@@ -119,3 +117,13 @@ Another part of our priority is adding protection for children while using the i
 
 io-forge.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
+
+
+**Legal Disclosure**
+
+***Information in accordance with section 5 TMG:***
+
+ioForge LLC
+5900 Balcones Dr. #100
+78731 Austin, Tx
+E-Mail: ioforge.studio@gmail.com
