@@ -7,7 +7,8 @@ import {getData, withPrefix, markdownify} from '../utils';
 export default class TeamSection extends React.Component {
 
     render() {
-                let actions = _.get(this.props, 'actions', null);
+                let action = _.get(this.props, 'action', null);
+                console.log(action, 'action')
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--team">
