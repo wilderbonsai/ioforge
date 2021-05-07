@@ -88,7 +88,9 @@ seo:
       value: ioForge | Modern Full-Stack Digital Solutions
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        We provide service and mentoring for building commercial and creative
+        digital solutions.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
