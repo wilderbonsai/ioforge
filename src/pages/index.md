@@ -38,10 +38,7 @@ sections:
         image: images/Solution-architecture.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Full-stack Development
         content: >
           With expertise in software enginerring, cloud infrastructure and dev
