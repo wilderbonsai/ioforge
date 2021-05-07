@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Custom Digital Solutions
     align: center
+    subtitle: 'We '
   - type: features_section
     features:
       - title: Feature 1
