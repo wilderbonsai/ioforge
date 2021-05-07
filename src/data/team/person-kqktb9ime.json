@@ -4,5 +4,6 @@
     "first_name": "Squareball Digital",
     "photo_alt": "lorem-ipsum",
     "bio": " Digital agency focusing on Identity Consultancy, Design & Engineering and Product Management.\n",
-    "type": "person"
+    "type": "person",
+    "photo": "images/squareball.jpeg"
 }
