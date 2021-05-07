@@ -148,8 +148,9 @@ models:
         name: bio
         label: Bio
       - name: url
-        type: url
+        type: model
         label: url
+        models: []
   category:
     type: data
     label: Category
