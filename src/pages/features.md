@@ -25,8 +25,8 @@ sections:
         content: >
           We use modern development and management process to ensure speed and
           reliability in development. We practice and preach an agile
-          methodology, to ensure fast and flexible communication and delivery.
-          We can easily fit in with any existing product team, as well as
+          methodology, to ensure fast and flexible communication and delivery
+          and can easily fit in with any existing product team, as well as
           providing this structure for newer product teams.
         align: left
         image: images/planning.png
