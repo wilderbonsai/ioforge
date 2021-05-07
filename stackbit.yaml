@@ -135,6 +135,11 @@ models:
         name: first_name
         label: First Name
         required: true
+      - name: url
+        type: model
+        label: url
+        models:
+          - action
       - type: string
         name: last_name
         label: Last Name
@@ -147,11 +152,6 @@ models:
       - type: markdown
         name: bio
         label: Bio
-      - name: url
-        type: model
-        label: url
-        models:
-          - action
   category:
     type: data
     label: Category
