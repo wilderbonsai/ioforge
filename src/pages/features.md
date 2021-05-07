@@ -83,7 +83,7 @@ sections:
       offer our services
     actions:
       - label: Get in Touch
-        url: '#'
+        url: /contact
         style: primary
         new_window: false
         no_follow: false
