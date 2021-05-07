@@ -3,6 +3,7 @@ title: Who We Are
 sections:
   - type: hero_section
     align: center
+    subtitle: Test
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
