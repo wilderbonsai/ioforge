@@ -147,7 +147,7 @@ models:
       - type: markdown
         name: bio
         label: Bio
-      - name: Action
+      - name: url
         type: url
   category:
     type: data
