@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Custom Digital Solutions
     align: center
-    subtitle: 'Our goal is to '
+    subtitle: 'Our experience with the latest technologies '
   - type: features_section
     features:
       - title: Feature 1
