@@ -85,10 +85,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        We provide service and mentoring for building commercial and creative
-        digital solutions using modern web development architecture for optimal
-        performance, lower cost, and greater scalability.
+      value: ioForge | Modern Full-Stack Digital Solutions
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
