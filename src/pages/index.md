@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: 'Modern, full-stack digital solutions'
+    title: 'Modern, full-stack digital solutions.'
   - type: features_section
     title: Features
     features:
