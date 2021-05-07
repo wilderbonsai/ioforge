@@ -19,7 +19,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/ioForgeHorizontal.png"
+        "logo": "images/ioForgeHorizontal.png",
+        "logo_alt": "ioFoge"
     },
     "footer": {
         "has_nav": true,
