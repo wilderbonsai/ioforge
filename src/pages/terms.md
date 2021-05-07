@@ -22,12 +22,100 @@ seo:
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam. In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
 
-Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue. Eget arcu dictum varius duis at consectetur lorem. Pellentesque pulvinar pellentesque habitant morbi tristique. Sagittis nisl rhoncus mattis rhoncus urna neque. In eu mi bibendum neque egestas congue. Et malesuada fames ac turpis egestas.
+At io-forge.com, accessible from io-forge.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by io-forge.com and how we use it.
 
-Consequat id porta nibh venenatis cras sed felis eget velit. Nunc vel risus commodo viverra maecenas accumsan. Congue quisque egestas diam in. Ultricies mi quis hendrerit dolor magna eget est. Duis at tellus at urna. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Et egestas quis ipsum suspendisse ultrices gravida dictum. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Mauris nunc congue nisi vitae. Venenatis tellus in metus vulputate eu scelerisque felis. Ultrices in iaculis nunc sed augue lacus. Eu lobortis elementum nibh tellus molestie nunc. Faucibus nisl tincidunt eget nullam non nisi est.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-Sagittis vitae et leo duis. Et magnis dis parturient montes nascetur ridiculus mus. Dui vivamus arcu felis bibendum ut. Et netus et malesuada fames ac. Mollis aliquam ut porttitor leo a diam sollicitudin. Elit at imperdiet dui accumsan sit. Justo eget magna fermentum iaculis. Turpis tincidunt id aliquet risus feugiat. Dictumst vestibulum rhoncus est pellentesque elit. Dolor magna eget est lorem ipsum dolor. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Metus vulputate eu scelerisque felis imperdiet proin. Congue nisi vitae suscipit tellus mauris. Sed blandit libero volutpat sed cras ornare arcu dui vivamus. Scelerisque purus semper eget duis at tellus at urna condimentum. Elit ut aliquam purus sit amet luctus venenatis lectus magna. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in io-forge.com. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the [Online Generator of Privacy Policy](https://www.privacypolicyonline.com/privacy-policy-generator/).
 
-Neque sodales ut etiam sit amet. Magna ac placerat vestibulum lectus mauris ultrices. Turpis massa tincidunt dui ut ornare lectus sit amet est. Sed vulputate mi sit amet mauris commodo quis. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Eget nullam non nisi est sit amet facilisis. Sem viverra aliquet eget sit amet tellus cras. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Gravida arcu ac tortor dignissim convallis aenean. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Egestas dui id ornare arcu odio ut sem. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Nibh sit amet commodo nulla. Feugiat scelerisque varius morbi enim nunc. Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Eu mi bibendum neque egestas. At lectus urna duis convallis. Gravida quis blandit turpis cursus.
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+
+## Information we collect
+
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+
+## How we use your information
+
+We use the information we collect in various ways, including to:
+
+*   Provide, operate, and maintain our website
+
+*   Improve, personalize, and expand our website
+
+*   Understand and analyze how you use our website
+
+*   Develop new products, services, features, and functionality
+
+*   Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+
+*   Send you emails
+
+*   Find and prevent fraud
+
+## Log Files
+
+io-forge.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+
+## Cookies and Web Beacons
+
+Like any other website, io-forge.com uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+
+For more general information on cookies, please read ["What Are Cookies" from Cookie Consent](https://www.privacypolicyonline.com/what-are-cookies/).
+
+## Advertising Partners Privacy Policies
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of io-forge.com.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on io-forge.com, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that io-forge.com has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Party Privacy Policies
+
+io-forge.com's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+
+## CCPA Privacy Rights (Do Not Sell My Personal Information)
+
+Under the CCPA, among other rights, California consumers have the right to:
+
+Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+
+Request that a business delete any personal data about the consumer that a business has collected.
+
+Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+## GDPR Data Protection Rights
+
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+
+The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+## Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+io-forge.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
