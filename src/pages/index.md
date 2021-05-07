@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/famous-ant.png
+    image: images/ClipartKey_646720.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
