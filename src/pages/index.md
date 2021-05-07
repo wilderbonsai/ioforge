@@ -21,7 +21,7 @@ sections:
     background:
       background_color: white
       background_image: images/ClipartKey_646720.png
-      background_image_opacity: 10
+      background_image_opacity: 5
       background_image_size: auto
       background_image_repeat: repeat
     title: 'Modern, full-stack digital solutions.'
