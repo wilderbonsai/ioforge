@@ -43,36 +43,22 @@ sections:
           We use leading industry frameworks, and cloud services across the full
           development stack to provide robust and scalable solutions. We develop
           with scalability, and maintainability at the core of our focus, to
-          ensure your product is reliable and fit to thrive. 
-
-
+          ensure your product is reliable and fit to thrive.
 
 
           Some of our favorite technologies and services include
 
 
-
-
           **Front End**
 
 
-          ****
-
-
-          React, Gatsby, Next, CSS-in-JS, 
-
-
+          React, Gatsby, Next, CSS-in-JS,
 
 
           **Backend**
 
 
-          ****
-
-
           Node, Express, Serverless, GraphQL
-
-
 
 
           **Cloud Infrastructure Services**
@@ -84,7 +70,7 @@ sections:
           **Deployment Infrastructure**
 
 
-          CircleCI, Dokku, Kubernetes, 
+          CircleCI, Dokku, Kubernetes,
 
 
           **Management Tooling**
@@ -93,9 +79,7 @@ sections:
           Slack, Trello, Jira, Airtable
 
 
-
-
-          ****
+          ***
 seo:
   title: Features
   description: This is the features page
