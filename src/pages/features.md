@@ -81,7 +81,13 @@ sections:
     subtitle: >-
       We are glad to discuss your project and vision to see how we can best
       offer our services
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
