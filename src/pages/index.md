@@ -75,7 +75,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: 'ioForge | '
+  title: ioForge | Modern Full-Stack Digital Solutions
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
