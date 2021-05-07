@@ -35,9 +35,9 @@ export default class TeamSection extends React.Component {
                             </header>
                             
                             <div className="card__copy">
-                              {_.map(actions, (action, action_idx) => (
+                             
               <Action key={action_idx} {...this.props} action={action} />
-            ))}
+
                             </div>
                             
                             {person_data.bio && (
