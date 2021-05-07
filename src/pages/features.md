@@ -10,10 +10,12 @@ sections:
   - type: features_section
     features:
       - title: Personalized consulting solutions that fit your business needs
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          With so many technologies and services out there, it can be difficult
+          to have confidence in selecting the right one. We have experience with
+          hundreds of different service and solutions, and use this to help
+          curate a digital solution architecture that best fits your business
+          and project. 
         align: left
         image: images/futuristic-sage.png
         image_alt: Feature 1 placeholder image
