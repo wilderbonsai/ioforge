@@ -77,7 +77,7 @@ sections:
 
 
           Slack, Trello, Jira, Airtable
-  - title: lorem-ipsum
+  - title: Reach out to us for a chat
     subtitle: lorem-ipsum
     actions: []
     has_background: false
