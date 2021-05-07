@@ -69,7 +69,7 @@ sections:
       Whether you have a new project, partnership opportunity, just want to say
       hi, we are happy to chat with you.
     actions:
-      - label: Get in Touch
+      - label: Contact Us
         url: /features
         style: primary
     has_background: true
