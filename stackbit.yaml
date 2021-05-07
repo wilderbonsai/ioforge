@@ -150,7 +150,8 @@ models:
       - name: url
         type: model
         label: url
-        models: []
+        models:
+          - action
   category:
     type: data
     label: Category
