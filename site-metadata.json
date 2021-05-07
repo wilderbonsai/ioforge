@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/ioForgeLogo.png"
     },
     "footer": {
         "has_nav": true,
