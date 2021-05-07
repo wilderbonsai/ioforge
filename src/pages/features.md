@@ -77,6 +77,7 @@ sections:
 
 
           Slack, Trello, Jira, Airtable
+  - type: contact_section
 seo:
   title: Features
   description: This is the features page
