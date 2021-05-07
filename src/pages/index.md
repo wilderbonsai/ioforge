@@ -57,10 +57,9 @@ sections:
             url: /features
             style: secondary
       - title: Coaching and Mentoring
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          We provide coaching and mentoring for teams and individuals, in order
+          to foster lasting develop skills 
         align: left
         image: images/Align-company-goals-.png
         image_alt: Feature 3 placeholder image
