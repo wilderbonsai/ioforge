@@ -58,8 +58,9 @@ sections:
             style: secondary
       - title: Coaching and Mentoring
         content: >
-          We provide coaching and mentoring for teams and individuals, in order
-          to foster lasting develop skills 
+          We provide coaching and mentoring for teams and individuals, to
+          develop and grow the skills necessary to proficiently and
+          professionally build outstanding digital products.
         align: left
         image: images/Align-company-goals-.png
         image_alt: Feature 3 placeholder image
