@@ -93,7 +93,7 @@ seo:
         digital solutions.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /images/Screenshot%202021-05-07%20at%2020.12.48.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
