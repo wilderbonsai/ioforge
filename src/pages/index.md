@@ -66,8 +66,8 @@ sections:
   - type: cta_section
     title: Get in Touch
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Whether you have a new project, partnership opportunity, just want to say
+      hi, we are happy to chat with you.
     actions:
       - label: Learn More
         url: /features
