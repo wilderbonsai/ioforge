@@ -43,10 +43,11 @@ sections:
             url: /features
             style: secondary
       - title: Full-stack Development
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We build full-stack platforms, tools, and other digital solutions with
+          experience that spans over 10 years, using the latest technologies and
+          services such as ReactJS, Node, AWS, Docker, Digital Ocean, Netlify,
+          and many others.   
         align: left
         image: images/Intelligent-consulting-.png
         image_alt: Feature 2 placeholder image
