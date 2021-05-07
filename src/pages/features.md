@@ -34,10 +34,6 @@ sections:
         image_position: left
         actions: []
       - title: Developer expertise to build outstanding tools and platforms.
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
         align: left
         image: images/pink-yam.png
         image_alt: Feature 3 placeholder image
