@@ -7,7 +7,7 @@ sections:
       Alongside our development services, we offer a variety of courses,
       coaching, and mentorship programs for aspiring developers of all skill
       levels.
-    title: Forging a new generation of developer
+    title: Forging a new generation of developers
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
