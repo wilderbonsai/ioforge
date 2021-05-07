@@ -22,8 +22,10 @@ sections:
         image_position: right
         actions: []
       - title: Modern methodologies to integrate with any team.
-        content: |
-          We are 
+        content: >
+          We use modern development and management process to ensure speed and
+          reliability in development. We practice and preach an agile
+          methodology, to ensure fast and flexible communication and delivery.  
         align: left
         image: images/planning.png
         image_alt: Feature 2 placeholder image
