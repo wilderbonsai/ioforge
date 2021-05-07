@@ -70,7 +70,7 @@ sections:
       hi, we are happy to chat with you.
     actions:
       - label: Contact Us
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
