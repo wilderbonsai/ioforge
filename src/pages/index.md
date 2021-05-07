@@ -70,7 +70,8 @@ sections:
             url: /features
             style: secondary
   - title: Some of our work
-    team: []
+    team:
+      - src/data/team/person-kqktb9ime.json
     type: team_section
   - type: cta_section
     title: This Is A CTA
