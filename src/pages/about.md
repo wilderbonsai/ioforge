@@ -34,7 +34,7 @@ sections:
         url: /contact
         style: secondary
     has_background: true
-    background_color: blue
+    background_color: white
 seo:
   title: Who We Are
   description: This is the about us page
