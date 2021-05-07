@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'We provide coaching, expertise, and'
+    subtitle: >-
+      We provide service and mentoring for building commercial and creative
+      digital solutions.
     actions:
       - label: Learn More
         url: /features
