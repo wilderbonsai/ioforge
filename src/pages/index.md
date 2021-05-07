@@ -85,7 +85,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: >-
+        We provide service and mentoring for building commercial and creative
+        digital solutions using modern web development architecture for optimal
+        performance, lower cost, and greater scalability.
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
