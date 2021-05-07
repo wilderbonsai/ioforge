@@ -38,7 +38,7 @@ export default class TeamSection extends React.Component {
               <Action key={action_idx} {...this.props} action={action} />
             ))}
                             </div>
-                            }
+                            
                             {person_data.bio && (
                             <div className="card__copy">
                               {markdownify(person_data.bio)}
