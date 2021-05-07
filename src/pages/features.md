@@ -9,7 +9,7 @@ sections:
       help to plan and build outstanding digital products.
   - type: features_section
     features:
-      - title: Intelligent consulting solutions your business needs
+      - title: Personalized consulting solutions that fit your business needs
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
