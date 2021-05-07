@@ -33,14 +33,6 @@
                 "label": "Privacy and Terms",
                 "url": "/terms",
                 "style": "link"
-            },
-            {
-                "label": "Impressum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
