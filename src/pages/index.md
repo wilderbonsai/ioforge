@@ -69,14 +69,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Our Latest Projects
-        content: |
-          test
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-        type: feature
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
