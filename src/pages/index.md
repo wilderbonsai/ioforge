@@ -30,9 +30,10 @@ sections:
     features:
       - title: Solution Architechture
         content: >
-          Solution architecture and development is a comprehensive process that
-          finds the best solutions to your business problems by implementing the
-          right technology and methods for your company’s specific needs
+          We help find the best solutions to your business problems by
+          researching, planning, and implementing the latest and most powerful
+          technologies and methods that are right for your company’s specific
+          needs. 
         align: left
         image: images/Solution-architecture.png
         image_alt: Feature 1 placeholder image
