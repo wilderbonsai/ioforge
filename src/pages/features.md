@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Custom Digital Solutions
     align: center
-    subtitle: 'Our experience with the latest technologies '
+    subtitle: >-
+      Our expertise with the latest modern technologies and services allow us to
+      help to plan and build outstanding digital products.
   - type: features_section
     features:
       - title: Feature 1
