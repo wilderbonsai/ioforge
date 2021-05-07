@@ -5,7 +5,7 @@ sections:
     subtitle: >-
       We provide service and mentoring for building commercial and creative
       digital solutions using modern web development architecture for optimal
-      performance, lower cost, and greater
+      performance, lower cost, and greater scalability.
     actions:
       - label: Learn More
         url: /features
