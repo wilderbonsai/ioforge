@@ -69,7 +69,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - title: lorem-ipsum
+  - title: Some of our work
     team: []
     type: team_section
   - type: cta_section
