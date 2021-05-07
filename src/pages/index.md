@@ -7,9 +7,6 @@ sections:
       digital solutions using modern web development architecture for optimal
       performance, lower cost, and greater scalability.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
