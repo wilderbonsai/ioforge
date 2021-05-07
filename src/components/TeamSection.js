@@ -34,7 +34,7 @@ export default class TeamSection extends React.Component {
                             </header>
                         
                             <div className="card__copy">
-                                             <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                              <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                             </div>
                               
                             {person_data.bio && (
