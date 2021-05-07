@@ -3,13 +3,6 @@ title: Who We Are
 sections:
   - type: hero_section
     align: center
-  - type: content_section
-    content: >+
-      Alongside our development services, we offer a variety of courses,
-      coaching, and mentorship programs for aspiring developers of all skill
-      levels.
-
-    title: Forging a new generation of developers
   - type: team_section
     title: Programs
     team:
