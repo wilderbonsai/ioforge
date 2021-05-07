@@ -11,7 +11,7 @@ sections:
 
     title: Forging a new generation of developers
   - type: team_section
-    title: Our Team
+    title: Programs
     team:
       - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
