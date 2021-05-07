@@ -82,7 +82,7 @@ sections:
       We are glad to discuss your project and vision to see how we can best
       offer our services
     actions:
-      - label: lorem-ipsum
+      - label: ' teG'
         url: '#'
         style: primary
         new_window: false
