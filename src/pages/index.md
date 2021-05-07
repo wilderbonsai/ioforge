@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: /images/graceful-mustard.png
       relativeUrl: true
 template: advanced
 ---
