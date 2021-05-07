@@ -40,5 +40,6 @@
         "content": "&copy; ioForge LLC. All rights reserved."
     },
     "title": "ioForge | Modern Full-Stack Digital Solutions",
-    "domain": "https://io-forge.com"
+    "domain": "https://io-forge.com",
+    "favicon": "images/ioforge-mark.png"
 }
