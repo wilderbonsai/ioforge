@@ -19,8 +19,8 @@ sections:
   - type: cta_section
     title: Become a master of the digital universe
     subtitle: >-
-      Interested in our courses, or mentorship program to take you or your team
-      to the next level?
+      Interested in our courses, mentorship program, or to take your team to the
+      next level?
     actions:
       - label: Get In Touch
         url: /contact
