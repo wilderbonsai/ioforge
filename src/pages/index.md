@@ -73,6 +73,7 @@ sections:
     team:
       - src/data/team/person-kqktb9ime.json
       - src/data/team/person-lurmnqa8o.json
+      - src/data/team/person-mmzb351sp.json
     type: team_section
   - type: cta_section
     title: This Is A CTA
