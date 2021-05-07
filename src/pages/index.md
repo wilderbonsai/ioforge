@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 5
       background_image_size: auto
       background_image_repeat: repeat
-    title: 'Modern, Full-Stack Sigital Solutions.'
+    title: 'Modern, Full-Stack Digital Solutions.'
   - type: features_section
     title: What we do
     features:
