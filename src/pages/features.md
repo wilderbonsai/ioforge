@@ -78,7 +78,9 @@ sections:
 
           Slack, Trello, Jira, Airtable
   - title: Reach out to us for a chat
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We are glad to discuss your project and vision to see how we can best
+      offer our services
     actions: []
     has_background: false
     background_color: white
