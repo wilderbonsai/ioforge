@@ -30,10 +30,9 @@ export default class TeamSection extends React.Component {
                               <h3 className="h4 card__title">{person_data.first_name} {person_data.last_name}</h3>
                             </header>
                             {person_data.link && (
-                            <Link to={withPrefix(_.get(action, 'url', null))}
-              {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
-              {...((_.get(action, 'new_window', null) || _.get(action, 'no_follow', null)) ? ({rel: (_.get(action, 'new_window', null) ? ('noopener ') : '') + (_.get(action, 'no_follow', null) ? ('nofollow') : '')}) : null)}
-              className={classNames({'btn': _.get(action, 'style', null) !== 'link', 'btn--secondary': _.get(action, 'style', null) === 'secondary'})}>{_.get(action, 'label', null)}</Link>
+                            <div className="card__copy">
+                              {markdownify(person_data.link)}
+                            </div>
                             )}
                             {person_data.bio && (
                             <div className="card__copy">
