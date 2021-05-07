@@ -8,19 +8,6 @@ sections:
       coaching, and mentorship programs for aspiring developers of all skill
       levels.
     title: Forging a new generation of developers
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
   - type: team_section
     title: Programs
     team:
