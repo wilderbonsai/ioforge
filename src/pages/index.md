@@ -26,7 +26,7 @@ sections:
       background_image_repeat: repeat
     title: 'Modern, full-stack digital solutions.'
   - type: features_section
-    title: Features
+    title: What we do
     features:
       - title: Feature 1
         content: >-
