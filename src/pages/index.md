@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: We provide service and expertise in full stack development
+    subtitle: 'We provide coaching, expertise, and'
     actions:
       - label: Learn More
         url: /features
