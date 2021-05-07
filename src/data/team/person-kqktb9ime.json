@@ -5,5 +5,13 @@
     "photo_alt": "lorem-ipsum",
     "bio": " Digital agency focusing on Identity Consultancy, Design & Engineering and Product Management.\n",
     "type": "person",
-    "photo": "images/squareball-forge.png"
+    "photo": "images/squareball-forge.png",
+    "url": {
+        "label": "lorem-ipsum",
+        "url": "#",
+        "style": "link",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+    }
 }
