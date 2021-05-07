@@ -67,7 +67,7 @@ sections:
     title: Get in Touch
     subtitle: >-
       Whether you have a new project, partnership opportunity, just want to say
-      hi, we are happy to chat with you.
+      hi, we're looking forward to chatting with you!
     actions:
       - label: Contact Us
         url: /contact
