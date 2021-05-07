@@ -22,7 +22,7 @@ sections:
       Interested in our courses, or mentorship program to take you or your team
       to the next level?
     actions:
-      - label: Contact Us
+      - label: Get In Touch
         url: /contact
         style: secondary
     has_background: true
