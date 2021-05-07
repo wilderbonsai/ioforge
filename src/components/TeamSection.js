@@ -7,8 +7,8 @@ import {getData, withPrefix, markdownify} from '../utils';
 export default class TeamSection extends React.Component {
 
     render() {
-                let action = _.get(this.props, 'action', null);
-                console.log(action, 'action')
+                let actions = _.get(this.props, 'action', null);
+                console.log(actions, 'actions')
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--team">
@@ -35,9 +35,9 @@ export default class TeamSection extends React.Component {
                             </header>
                             
                             <div className="card__copy">
-                             
+                              {_.map(actions, (action, action_idx) => (
               <Action key={action_idx} {...this.props} action={action} />
-
+            ))}
                             </div>
                             
                             {person_data.bio && (
