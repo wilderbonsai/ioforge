@@ -64,7 +64,7 @@ sections:
       - src/data/team/person-mmzb351sp.json
     type: team_section
   - type: cta_section
-    title: This Is A CTA
+    title: Get In Touch
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
