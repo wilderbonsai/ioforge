@@ -44,8 +44,8 @@ sections:
             style: secondary
       - title: Full-stack Development
         content: >
-          With expertise in Software Enginerring, Cloud Infrastructure and Dev
-          Ops, we build and maintain full-stack platforms and tools, using
+          With expertise in software enginerring, cloud infrastructure and dev
+          ops, we build and maintain full-stack platforms and tools, using
           latest modern methods and technologies and services such as ReactJS,
           Node, AWS, Docker, Digital Ocean, Netlify,
         align: left
