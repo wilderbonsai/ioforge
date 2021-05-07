@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     subtitle: >-
       We provide service and mentoring for building commercial and creative
-      digital solutions using modern web development architectuee
+      digital solutions using modern web development architecture for optimal
+      performance, and
     actions:
       - label: Learn More
         url: /features
