@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import SectionAction from './Action';
+import SectionActions from './SectionActions';
 
 import {getData, withPrefix, markdownify} from '../utils';
 
