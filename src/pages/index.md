@@ -76,7 +76,10 @@ sections:
     background_color: gray
 seo:
   title: ioForge | Modern Full-Stack Digital Solutions
-  description: The preview of the Starter theme
+  description: >-
+    We provide service and mentoring for building commercial and creative
+    digital solutions using modern web development architecture for optimal
+    performance, lower cost, and greater scalability.
   extra:
     - name: 'og:type'
       value: website
