@@ -3,7 +3,10 @@ title: Who We Are
 sections:
   - type: hero_section
     align: center
-    subtitle: Test
+    subtitle: >-
+      Alongside our development services, we offer a variety of courses,
+      coaching, and mentorship programs for aspiring developers of all skill
+      levels.
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
