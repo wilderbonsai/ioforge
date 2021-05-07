@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Digital Solutions are our specialty
+    title: Custom Digital Solutions
     align: center
   - type: features_section
     features:
