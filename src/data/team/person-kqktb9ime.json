@@ -8,7 +8,6 @@
     "photo": "images/squareball-forge.png",
     "url": {
         "label": "lorem-ipsum",
-        "url": "#",
         "style": "link",
         "new_window": false,
         "no_follow": false,
