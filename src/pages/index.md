@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image: images/ClipartKey_646720.png
     image_alt: Hero placeholder image
