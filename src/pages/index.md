@@ -101,7 +101,9 @@ seo:
     - name: 'twitter:title'
       value: ioForge | Modern Full-Stack Digital Solutions
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        We provide service and mentoring for building commercial and creative
+        digital solutions.
     - name: 'twitter:image'
       value: /images/graceful-mustard.png
       relativeUrl: true
