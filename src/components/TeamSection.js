@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import Action from './Action';
 
 import {getData, withPrefix, markdownify} from '../utils';
 
