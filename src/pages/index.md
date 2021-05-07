@@ -69,7 +69,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - title: Our Selection of Our Past Work
+  - title: A Selection of Our Past Work
     team:
       - src/data/team/person-kqktb9ime.json
       - src/data/team/person-lurmnqa8o.json
