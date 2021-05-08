@@ -612,3 +612,6 @@ models:
   test:
     type: object
     label: test
+    fields:
+      - name: ''
+        type: string
