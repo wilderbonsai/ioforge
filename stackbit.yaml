@@ -609,9 +609,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  test:
-    type: object
-    label: test
-    fields:
-      - name: ''
-        type: string
